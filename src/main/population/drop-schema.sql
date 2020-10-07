@@ -21,13 +21,27 @@
 
     drop table if exists `administrator`;
 
+    drop table if exists `advertisement`;
+
     drop table if exists `anonymous`;
 
     drop table if exists `authenticated`;
 
     drop table if exists `consumer`;
 
+    drop table if exists `figment`;
+
+    drop table if exists `material_sheet`;
+
+    drop table if exists `news`;
+
     drop table if exists `provider`;
+
+    drop table if exists `sheet`;
+
+    drop table if exists `suggestion`;
+
+    drop table if exists `tool_sheet`;
 
     drop table if exists `user_account`;
 
