@@ -18,6 +18,7 @@
 <acme:form>
 	<acme:form-textbox code="authenticated.figment.label.title" path="title"/>
 	<acme:form-textbox code="authenticated.figment.label.inventor-name" path="inventorName"/>
+	<acme:form-textbox code="authenticated.figment.label.text-piece" path="textPiece"/>
 	<acme:form-integer code="authenticated.figment.label.price-min" path="priceMin"/>
 	<acme:form-integer code="authenticated.figment.label.price-max" path="priceMax"/>
 	
