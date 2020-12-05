@@ -1,0 +1,19 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+administrator.news.label.category = Category
+administrator.news.label.header-picture = Header picture
+administrator.news.label.title = Title
+administrator.news.label.creation-date = Creation date
+administrator.news.label.deadline = Deadline
+administrator.news.label.body = Body
+administrator.news.label.news-links = News links
+
+administrator.news.button.return = Return

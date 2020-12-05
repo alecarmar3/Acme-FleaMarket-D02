@@ -30,10 +30,26 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.advertisement.list = List Advertisements
+master.menu.anonymous.material-sheet.list = List Material sheets
+master.menu.anonymous.news.list = List News
+master.menu.anonymous.tool-sheet.list = List Tool sheets
+
+# master.menu.authenticated #######################################################
+
+master.menu.authenticated = Authenticated
+master.menu.authenticated.advertisement.list = List Advertisements
+master.menu.authenticated.figment.list = List Figments
+master.menu.authenticated.material-sheet.list = List Material sheets
+master.menu.authenticated.news.list = List News
+master.menu.authenticated.suggestion.list = List Suggestions
+master.menu.authenticated.tool-sheet.list = List Tool sheets
+
 
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator
+master.menu.administrator.news.list = List all news
 master.menu.administrator.user-accounts = User accounts
 master.menu.administrator.shutdown = Shut down
 
